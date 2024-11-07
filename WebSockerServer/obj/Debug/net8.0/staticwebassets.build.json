@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1jmMyA3l+Ux5O02ZZrY1o99akVlJG8I138BQpyciS+U=",
+  "Source": "WebSockerServer",
+  "BasePath": "_content/WebSockerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
