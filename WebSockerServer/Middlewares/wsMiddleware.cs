@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.WebSockets;
+
 using WebSocketServer.Networks;
 
 namespace WebSocketServer.Middlewares
@@ -19,6 +19,7 @@ namespace WebSocketServer.Middlewares
     {
       if (context.WebSockets.IsWebSocketRequest)
       {
+
         // WriteRequestParams(context);
         await _webSocketHandler.HandleAsync(context);
       }
@@ -28,6 +29,8 @@ namespace WebSocketServer.Middlewares
         await _next(context);
       }
     }
+
+
 
   }
 }

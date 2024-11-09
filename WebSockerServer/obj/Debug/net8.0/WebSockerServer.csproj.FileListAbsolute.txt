@@ -23,3 +23,7 @@ C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\refint\
 C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\WebSockerServer.pdb
 C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\WebSockerServer.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\ref\WebSockerServer.dll
+C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\WebSockerServer.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\WebSockerServer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\socket\WebSockerServer\obj\Debug\net8.0\WebSocke.8673CD4F.Up2Date

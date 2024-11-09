@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebSockerServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7e88782f04cbfcad7afd4be9c60ad46047a97d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4fdeb3fd80a58768b0213f3f355a0d5bb9afce")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebSockerServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebSockerServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,10 +3,11 @@ using WebSocketServer.Networks;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<WebSocketHandler>();
+builder.Services.AddWebSocketManager();
+
 var app = builder.Build();
 
 app.UseWebSockets();
-
 app.UseWebSocketServer();
 
 app.Run(async context =>
@@ -34,4 +35,3 @@ app.Run(async context =>
 
 
 app.Run();
-

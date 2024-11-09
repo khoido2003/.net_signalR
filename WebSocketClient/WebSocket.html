@@ -109,6 +109,12 @@
         "</td></tr>";
     };
 
+    function idConnId(str) {
+      if (str.substring(0, 7) == "ConnId:") {
+        connID.innerHTML = "ConnId: " + str.substring(8, 45);
+      }
+    }
+
     function htmlEscape(str) {
       return str
         .toString()
@@ -120,7 +126,7 @@
     }
 
     function isConnID(str) {
-      if (str.substring(0, 7) == "ConnID:")
+      if (str.substring(0, 7) == "ConnId:")
         connID.innerHTML = "ConnID: " + str.substring(8, 45);
     }
 
